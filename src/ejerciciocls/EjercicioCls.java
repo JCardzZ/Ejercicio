@@ -34,8 +34,8 @@ public class EjercicioCls {
         String m = in.nextLine();
         if (m.equals("Josue")) {
             System.out.println("Josue estima: "
-                    + persona.get(1) + " "
-                    + persona.get(2));
+                    + persona.get(2) + " "
+                    + persona.get(3));
         }
 
     }
